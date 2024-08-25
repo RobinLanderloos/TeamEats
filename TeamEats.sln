@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamEats", "TeamEats\TeamEats\TeamEats.csproj", "{9D8DC55C-663B-4BD1-8627-702BB23DCF5F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamEats", "TeamEats\TeamEats.csproj", "{9D8DC55C-663B-4BD1-8627-702BB23DCF5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamEats.Client", "TeamEats\TeamEats.Client\TeamEats.Client.csproj", "{4F0180A6-8726-4649-84C5-8BEE98A5CF4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamEats.Client", "TeamEats.Client\TeamEats.Client.csproj", "{4F0180A6-8726-4649-84C5-8BEE98A5CF4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
